@@ -1,6 +1,6 @@
 # COVID-19 Analytics Dashboard
 
-Built an end-to-end COVID-19 analytics solution using SQL Server and Tableau, analyzing 150M+ global cases and visualizing infection, mortality, and vaccination trends through an interactive dashboard.
+Built an end-to-end COVID-19 analytics solution using SQL Server and Tableau, analyzing over 150 million global cases and visualizing infection, mortality, and vaccination trends through an interactive dashboard.
 
 ## Overview
 
@@ -27,7 +27,15 @@ The project combines data exploration, SQL-based analysis, and business intellig
 * Microsoft Excel (Data Source)
 
 ---
+## Data Source
 
+The project uses publicly available COVID-19 datasets containing global case, death, population, and vaccination statistics.
+
+Datasets:
+- CovidDeaths.xlsx
+- CovidVaccinations.xlsx
+
+---
 ## SQL Concepts Demonstrated
 
 * Data Cleaning
