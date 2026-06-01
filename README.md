@@ -111,4 +111,4 @@ B.Tech Computer Science Engineering
 Jaypee Institute of Information Technology, Noida
 
 Tableau Public:
-https://public.tableau.com/app/profile/vaibhav.khandelwal16292
+https://public.tableau.com/app/profile/vaibhav.khandelwal6292/vizzes
