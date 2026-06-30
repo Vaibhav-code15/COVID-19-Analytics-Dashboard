@@ -111,6 +111,11 @@ https://public.tableau.com/app/profile/vaibhav.khandelwal6292/viz/COVID-19Global
 
 ---
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
 ## Author
 
 **Vaibhav Khandelwal**
