@@ -125,3 +125,6 @@ Jaypee Institute of Information Technology, Noida
 
 Tableau Public:
 https://public.tableau.com/app/profile/vaibhav.khandelwal6292/vizzes
+
+Linkedin Profile:
+https://www.linkedin.com/in/vaibhavkhandelwal15/
